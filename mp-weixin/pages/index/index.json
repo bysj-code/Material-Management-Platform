@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#8989c3",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "小区物业新冠疫情物资管理平台首页",
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons"
+  }
+}
